@@ -28,7 +28,7 @@ const App = () => {
                         <Route path='/profile' render={ ProfileComponent }/>
 
                         <Route path='/music' element={MusicComponent}/>
-                        <Route path='/news' element={cd NewsComponent}/>
+                        <Route path='/news' element={NewsComponent}/>
                         <Route path='/settings' element={<Settings/>}/>
 
 
